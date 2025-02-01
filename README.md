@@ -27,4 +27,4 @@ This is a social media website built with Django, inspired by platforms like Red
   </ol>
 
   <h2>📝 Contributing</h2>
-  <p>Contributions, issues, and feature requests are welcome! Feel free to check out the <a href="https://github.com/shaheem728/social_site/issues">issues page</a> to help improve this project.</p>
+  <p>Contributions, issues, and feature requests are welcome! Feel free to check out the <a href="https://github.com/shaheem728/Chat.com/issues">issues page</a> to help improve this project.</p>
